@@ -4,7 +4,7 @@ import (
 	"fmt"
 	// "modtest"
 
-	modtest "github.com/heifetzwu/modtest/modtest"
+	modtest "github.com/heifetzwu/lab1/modtest"
 
 	log "github.com/siruspen/logrus"
 )
