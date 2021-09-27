@@ -1,4 +1,4 @@
-module github.com/heifetzwu/lab1
+module github.com/heifetzwu/lab1/v2
 
 go 1.15
 
